@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DanmakuBukkit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DanmakuBukkit_jar</output-path>
+    <root id="archive" name="DanmakuBukkit.jar">
+      <element id="module-output" name="DanmakuBukkit" />
+    </root>
+  </artifact>
+</component>

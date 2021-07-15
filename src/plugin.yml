@@ -1,0 +1,17 @@
+name: DanmakuBukkit
+version: 1.0.0
+author: wfjsw
+main: io.github.wfjsw.DanmakuBukkit.DanmakuBukkit
+api-version: 1.16
+commands:
+  danmaku:
+    description: DanmakuBukkit Administration command
+    aliases:
+      - danmu
+      - dan
+    permission: danmakubukkit.admin
+    usage: /danmaku [reload|add <roomID>|remove <roomID>|enable|disable]
+permissions:
+  danmakubukkit.admin:
+    description: Administrative function of DanmakuBukkit
+    default: op

@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT" type="repository">
+    <properties maven-id="org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spigot-api-1.16.5-R0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bungeecord-chat-1.16-R0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/spigot-api-1.16.5-R0.1-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-21.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bungeecord-chat-1.16-R0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spigot-api-1.16.5-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-21.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bungeecord-chat-1.16-R0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
